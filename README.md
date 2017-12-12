@@ -6,6 +6,13 @@ These are my TF2 configs for all classes.
 I'll try to comment on what every line does, if there are any questions, just ask.
 Feel free to edit the configs to your own liking!
 
+## General information on scripting
+From the Official Team Fortress Wiki https://wiki.teamfortress.com/wiki/Scripting
+> Scripting is the use of configuration files (.cfg) to create new keybinds and aliases automating complex behaviors and console command sequences. Unlike hacking, scripting is built into Team Fortress 2 and is not banned by VAC (Valve Anti-Cheat). Uses of scripting vary from simply binding a key to a command to self-referential loops and nested aliases that redefine one another. Any functionality that can be created with scripting can also be accomplished without it, but scripting allows these functionalities to be used in the heat of battle.
+
+## List of default keys
+This is a list of default keys for the PC version of Team Fortress 2.
+https://wiki.teamfortress.com/wiki/List_of_default_keys
 
 ## Installation
 You can download this GitHub repository as a .zip and extract all the files into
