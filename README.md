@@ -18,7 +18,7 @@ https://wiki.teamfortress.com/wiki/List_of_default_keys
 You can download this GitHub repository as a .zip and extract all the files into
 - Windows: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\cfg\
 - OSX: Volume/Users/~username/Library/Application Support/Steam/SteamApps/common/team fortress 2/tf/cfg/
-- Linux: /home/$USER/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/
+- Linux: ~/.local/share/Steam/steamapps/common/Team\ Fortress\ 2/tf/custom/
 
 You can delete README.md though as it serves no function in game.  
 Also make sure you have no scripts in `\Team Fortress 2\tf\cfg` that have the same name as these.
